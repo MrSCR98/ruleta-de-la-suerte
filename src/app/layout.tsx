@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     telephone: false,
   },
 
-  metadataBase: new URL('https://calculadora-raideos-rust.pages.dev'),
+  metadataBase: new URL('https://ruleta-de-la-suerte.pages.dev'),
 
   // alternates: {
   //   canonical: '/',
@@ -54,11 +54,11 @@ export const metadata: Metadata = {
     title: 'Ruleta de la suerte',
     description:
       'Crea tu ruleta personalizada: añade, edita y elimina opciones y haz girar para decidir.',
-    url: 'https://calculadora-raideos-rust.pages.dev',
+    url: 'https://ruleta-de-la-suerte.pages.dev',
     siteName: 'Ruleta de la suerte',
     images: [
       {
-        url: 'https://calculadora-raideos-rust.pages.dev/opengraph/og.jpg', // Must be an absolute URL
+        url: 'https://ruleta-de-la-suerte.pages.dev/opengraph/og.jpg', // Must be an absolute URL
         width: 1200,
         height: 630,
       },
@@ -97,7 +97,7 @@ export const metadata: Metadata = {
     // siteId: '1467726470533754880',
     // creator: '@nextjs',
     // creatorId: '1467726470533754880',
-    images: ['https://calculadora-raideos-rust.pages.dev/opengraph/og.jpg'], // Must be an absolute URL
+    images: ['https://ruleta-de-la-suerte.pages.dev/opengraph/og.jpg'], // Must be an absolute URL
     /* 
     images: {
       url: 'https://nextjs.org/og.png',
