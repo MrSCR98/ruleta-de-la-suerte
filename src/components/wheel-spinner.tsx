@@ -155,7 +155,7 @@ export function WheelSpinner() {
             </DialogTitle>
             <DialogDescription>La ruleta ha elegido…</DialogDescription>
           </DialogHeader>
-          <p className="text-pretty py-4 text-3xl font-bold font-heading text-primary">
+          <p className="text-pretty wrap-anywhere py-4 text-3xl font-bold font-heading text-primary">
             {winner}
           </p>
           <DialogFooter className="sm:justify-center">
