@@ -23,8 +23,8 @@ export default function RootLayout({
       lang="es"
       className={cn(
         'antialiased',
-        'font-sans',
         'bg-background',
+        'font-sans',
         inter.variable
       )}
     >
